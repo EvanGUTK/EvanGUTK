@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8200,100:1b1b1b&height=200&section=header&text=Evan%20Goodman&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%C3%97%20Quantum%20Computing%20%C2%B7%20Privacy%20%C2%B7%20Systems&descAlignY=60&descSize=18" alt="Evan Goodman banner" width="100%" />
+<a href="https://evangutk.github.io"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8200,100:1b1b1b&height=200&section=header&text=Evan%20Goodman&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%C3%97%20Quantum%20Computing%20%C2%B7%20Privacy%20%C2%B7%20Systems&descAlignY=60&descSize=18" alt="Evan Goodman banner" width="100%" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF8200&center=true&vCenter=true&width=640&lines=Student+%40+University+of+Tennessee%2C+Knoxville;Exploring+how+quantum+computing+can+assist+AI;Building+agentic+tools%2C+simulators+%26+privacy+software)](https://evangutk.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF8200&center=true&vCenter=true&width=640&lines=B.S.+Applied+Artificial+Intelligence+%C2%B7+UT+Knoxville+%2726;Exploring+how+quantum+computing+can+assist+AI;Building+agentic+tools%2C+simulators+%26+privacy+software)](https://evangutk.github.io)
 
-![Location](https://img.shields.io/badge/University_of_Tennessee-Knoxville-FF8200?style=for-the-badge&labelColor=1b1b1b)
+[![Location](https://img.shields.io/badge/University_of_Tennessee-Knoxville-FF8200?style=for-the-badge&labelColor=1b1b1b)](https://www.utk.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-evangutk.github.io-FF8200?style=for-the-badge&labelColor=1b1b1b)](https://evangutk.github.io)
 ![Followers](https://img.shields.io/github/followers/EvanGUTK?style=for-the-badge&color=FF8200&labelColor=1b1b1b)
 
@@ -14,7 +14,7 @@
 
 ## 👋 About me
 
-I'm a student at the **University of Tennessee** deeply invested in **artificial intelligence** and **quantum mechanics**. My core question: *how can quantum computing assist AI?* Outside of coursework I build agentic developer tools, GPU-accelerated simulations, and privacy-first software.
+I graduated in May 2026 from the **University of Tennessee, Knoxville** with a **B.S. in Applied Artificial Intelligence**, and I'm deeply invested in **artificial intelligence** and **quantum mechanics**. My core question: *how can quantum computing assist AI?* I build agentic developer tools, GPU-accelerated simulations, and privacy-first software.
 
 - 🔭 **Working on:** quantum circuit simulation at scale, agentic coding tools, and edge-AI hardware projects
 - 🌱 **Learning:** Grover's and Shor's algorithms, topological matter, CUDA
